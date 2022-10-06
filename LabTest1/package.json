@@ -1,0 +1,16 @@
+{
+  "name": "labtest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "question1": "node ./question-1/LowerCaseWords.js",
+    "question2": "node ./question-2/callbacks.js",
+    "question3c": "node ./question-3/Create.js",
+    "question3d": "node ./question-3/Remove.js"
+  },
+  "keywords": [],
+  "author": "Chan Shum Loman",
+  "license": "ISC"
+}
